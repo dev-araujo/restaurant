@@ -3,7 +3,7 @@
 
 
 
-### Sobre::memo:
+### Sobre
  -  Esta é uma landing page construida com base no seguinte design, presente no Figma [*Aqui*](https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=53%3A2)
 
 
@@ -29,11 +29,6 @@ Por ser um projeto realizado com **ReactJS**, há a necessidade do **NodeJS**. C
 No terminal, clone o projeto:
 ```
 git clone 
-```
-
-Entre na pasta do projeto:
-```
-cd React/restaurant/restaurant_app
 ```
 
 Instale as dependências:
