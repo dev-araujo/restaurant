@@ -8,7 +8,7 @@
 
 
 ### Resultado:🎨
- - O resultado pode ser conferido aqui: [**AQUI**](https://restaurant.dev-araujo.repl.co/)
+ - O resultado pode ser conferido aqui: [**AQUI**](https://restaurant-62p2.vercel.app/)
 
 ## Preview ✨
 
